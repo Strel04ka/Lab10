@@ -1,0 +1,12 @@
+﻿  Lab10.4.cpp
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u0456' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u0435' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(114,19): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(110,6): warning C4101: 'prevsize': unreferenced local variable
+C:\Users\Oleg\source\repos\Lab10.4\Lab10.4\Lab10.4.cpp(110,16): warning C4101: 'size': unreferenced local variable
+  Lab10.4.vcxproj -> C:\Users\Oleg\source\repos\Lab10.4\Debug\Lab10.4.exe
